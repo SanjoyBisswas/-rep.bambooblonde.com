@@ -1,2 +1,2 @@
 # -rep.bambooblonde.com
-#subdomain takeover by ceh
+subdomain takeover by ceh
